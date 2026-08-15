@@ -1,5 +1,5 @@
-const PASS_URL = "https://domain-lolos.com/";
-const BLOCK_URL = "https://domain-tolak.com/";
+const PASS_URL = "https://myslot188bath.space/home/?register";
+const BLOCK_URL = "https://shopee.co.id/";
 
 const BOT_SIGNATURES = [
   "googlebot",
