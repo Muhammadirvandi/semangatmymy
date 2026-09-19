@@ -1,5 +1,5 @@
 const PASS_URL = "https://myslot188bath.space/home/?register";
-const BLOCK_URL = "https://shopee.co.id/";
+const BLOCK_URL = "https://lembayungcoffee.com/";
 
 const BOT_SIGNATURES = [
   "googlebot",
